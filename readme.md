@@ -11,12 +11,10 @@
 <h2 class="code-line" data-line-start=18 data-line-end=19 ><a id="Try_out_yourself_18"></a>Try out yourself</h2>
 <p class="has-line-data" data-line-start="20" data-line-end="21">Only available command to move the turtle is the up key button. The goal is to cross the road without hitting the moving cars. Although the game is pretty straight forward, my personal record is Level 3 at the moment 😁</p>
 <h2 class="code-line" data-line-start=22 data-line-end=23 ><a id="GOOD_LUCK__22"></a>GOOD LUCK !!</h2>
-<h1 class="code-line" data-line-start=24 data-line-end=25 ><a id="_24"></a></h1>
-<h1 class="code-line" data-line-start=25 data-line-end=26 ><a id="_25"></a></h1>
-<h1 class="code-line" data-line-start=26 data-line-end=27 ><a id="_26"></a></h1>
-<h1 class="code-line" data-line-start=27 data-line-end=28 ><a id="_27"></a></h1>
-<h1 class="code-line" data-line-start=28 data-line-end=29 ><a id="_28"></a></h1>
-<h1 class="code-line" data-line-start=29 data-line-end=30 ><a id="_29"></a></h1>
+
+
+
+
 <h1 class="code-line" data-line-start=30 data-line-end=31 ><a id="License_30"></a>License</h1>
 <p class="has-line-data" data-line-start="32" data-line-end="34">MIT<br>
 <strong>Free Software, Hell Yeah!</strong></p>
