@@ -1,6 +1,6 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Turtle_Crossing_0"></a>Turtle Crossing</h1>
 
-![🐢_Turtle_Crossing_Game_🚘](https://user-images.githubusercontent.com/55702254/187083135-1f3665d0-5be3-497e-a540-9b59fc9ad927.png)
+![🐢_Turtle_Crossing_Game_🚘 (1)](https://user-images.githubusercontent.com/55702254/187083172-62ce2ce2-4550-4266-86fe-d4992221f712.png)
 
 
 <p class="has-line-data" data-line-start="4" data-line-end="5">This is a game that built using Python’s famous Turtle library.</p>
